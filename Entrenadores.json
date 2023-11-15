@@ -1,0 +1,32 @@
+[
+    {
+      "_id": { "$oid": "entrenador1" },
+      "nombre": "Jorge Sampaoli",
+      "edad": 61,
+      "equipo": "Argentina"
+    },
+    {
+      "_id": { "$oid": "entrenador2" },
+      "nombre": "Didier Deschamps",
+      "edad": 53,
+      "equipo": "Francia"
+    },
+    {
+      "_id": { "$oid": "entrenador3" },
+      "nombre": "Joachim Löw",
+      "edad": 61,
+      "equipo": "Alemania"
+    },
+    {
+      "_id": { "$oid": "entrenador4" },
+      "nombre": "Gareth Southgate",
+      "edad": 51,
+      "equipo": "Inglaterra"
+    },
+    {
+      "_id": { "$oid": "entrenador5" },
+      "nombre": "Roberto Martínez",
+      "edad": 48,
+      "equipo": "Bélgica"
+    }
+  ]

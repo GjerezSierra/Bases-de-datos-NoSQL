@@ -1,0 +1,38 @@
+[
+    {
+      "_id": { "$oid": "deportista1" },
+      "nombre": "Lionel Messi",
+      "edad": 27,
+      "posicion": "Delantero",
+      "equipo": "Argentina"
+    },
+    {
+      "_id": { "$oid": "deportista2" },
+      "nombre": "Sergio Agüero",
+      "edad": 28,
+      "posicion": "Delantero",
+      "equipo": "Argentina"
+    },
+    {
+      "_id": { "$oid": "deportista3" },
+      "nombre": "Gonzalo Higuaín",
+      "edad": 29,
+      "posicion": "Delantero",
+      "equipo": "Argentina"
+    },
+    {
+      "_id": { "$oid": "deportista4" },
+      "nombre": "Ángel Di María",
+      "edad": 29,
+      "posicion": "Centrocampista",
+      "equipo": "Argentina"
+    },
+    {
+      "_id": { "$oid": "deportista5" },
+      "nombre": "Javier Mascherano",
+      "edad": 33,
+      "posicion": "Centrocampista",
+      "equipo": "Argentina"
+    }
+  ]
+  

@@ -1,0 +1,63 @@
+[
+    {
+      "_id": { "$oid": "posicion1" },
+      "equipo": "Argentina",
+      "puntos": 12,
+      "partidos_jugados": 4,
+      "partidos_ganados": 4,
+      "partidos_empatados": 0,
+      "partidos_perdidos": 0,
+      "goles_a_favor": 10,
+      "goles_en_contra": 2,
+      "diferencia_de_goles": 8
+    },
+    {
+      "_id": { "$oid": "posicion2" },
+      "equipo": "Brasil",
+      "puntos": 9,
+      "partidos_jugados": 4,
+      "partidos_ganados": 3,
+      "partidos_empatados": 0,
+      "partidos_perdidos": 1,
+      "goles_a_favor": 8,
+      "goles_en_contra": 3,
+      "diferencia_de_goles": 5
+    },
+    {
+      "_id": { "$oid": "posicion3" },
+      "equipo": "Francia",
+      "puntos": 7,
+      "partidos_jugados": 4,
+      "partidos_ganados": 2,
+      "partidos_empatados": 1,
+      "partidos_perdidos": 1,
+      "goles_a_favor": 5,
+      "goles_en_contra": 3,
+      "diferencia_de_goles": 2
+    },
+    {
+      "_id": { "$oid": "posicion4" },
+      "equipo": "Alemania",
+      "puntos": 5,
+      "partidos_jugados": 4,
+      "partidos_ganados": 1,
+      "partidos_empatados": 2,
+      "partidos_perdidos": 1,
+      "goles_a_favor": 4,
+      "goles_en_contra": 4,
+      "diferencia_de_goles": 0
+    },
+    {
+      "_id": { "$oid": "posicion5" },
+      "equipo": "Inglaterra",
+      "puntos": 3,
+      "partidos_jugados": 4,
+      "partidos_ganados": 1,
+      "partidos_empatados": 0,
+      "partidos_perdidos": 3,
+      "goles_a_favor": 3,
+      "goles_en_contra": 7,
+      "diferencia_de_goles": -4
+    }
+  ]
+  

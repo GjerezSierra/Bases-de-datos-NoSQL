@@ -1,0 +1,43 @@
+[
+    {
+      "_id": { "$oid": "resultado1" },
+      "encuentro": "encuentro1",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "ganador": "Brasil",
+      "estado": "Finalizado"
+    },
+    {
+      "_id": { "$oid": "resultado2" },
+      "encuentro": "encuentro2",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "ganador": "Empate",
+      "estado": "Finalizado"
+    },
+    {
+      "_id": { "$oid": "resultado3" },
+      "encuentro": "encuentro3",
+      "goles_local": 3,
+      "goles_visitante": 0,
+      "ganador": "Alemania",
+      "estado": "Finalizado"
+    },
+    {
+      "_id": { "$oid": "resultado4" },
+      "encuentro": "encuentro4",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "ganador": "Portugal",
+      "estado": "Finalizado"
+    },
+    {
+      "_id": { "$oid": "resultado5" },
+      "encuentro": "encuentro5",
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "ganador": "Empate",
+      "estado": "Finalizado"
+    }
+  ]
+  

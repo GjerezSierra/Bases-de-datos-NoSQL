@@ -1,0 +1,38 @@
+[
+    {
+      "_id": { "$oid": "encuentro1" },
+      "equipo_local": "Brasil",
+      "equipo_visitante": "Argentina",
+      "fecha": "2023-11-13T18:00:00Z",
+      "arbitro": "Howard Webb"
+    },
+    {
+      "_id": { "$oid": "encuentro2" },
+      "equipo_local": "España",
+      "equipo_visitante": "Francia",
+      "fecha": "2023-11-14T15:30:00Z",
+      "arbitro": "Pierluigi Collina"
+    },
+    {
+      "_id": { "$oid": "encuentro3" },
+      "equipo_local": "Alemania",
+      "equipo_visitante": "Italia",
+      "fecha": "2023-11-15T16:45:00Z",
+      "arbitro": "Felix Brych"
+    },
+    {
+      "_id": { "$oid": "encuentro4" },
+      "equipo_local": "Inglaterra",
+      "equipo_visitante": "Portugal",
+      "fecha": "2023-11-16T19:00:00Z",
+      "arbitro": "Mark Geiger"
+    },
+    {
+      "_id": { "$oid": "encuentro5" },
+      "equipo_local": "Bélgica",
+      "equipo_visitante": "Países Bajos",
+      "fecha": "2023-11-17T14:15:00Z",
+      "arbitro": "Ravshan Irmatov"
+    }
+  ]
+  

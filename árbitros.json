@@ -1,0 +1,32 @@
+[
+    {
+      "_id": { "$oid": "arbitro1" },
+      "nombre": "Howard Webb",
+      "edad": 43,
+      "nacionalidad": "Inglesa"
+    },
+    {
+      "_id": { "$oid": "arbitro2" },
+      "nombre": "Pierluigi Collina",
+      "edad": 61,
+      "nacionalidad": "Italiana"
+    },
+    {
+      "_id": { "$oid": "arbitro3" },
+      "nombre": "Felix Brych",
+      "edad": 46,
+      "nacionalidad": "Alemana"
+    },
+    {
+      "_id": { "$oid": "arbitro4" },
+      "nombre": "Mark Geiger",
+      "edad": 47,
+      "nacionalidad": "Estadounidense"
+    },
+    {
+      "_id": { "$oid": "arbitro5" },
+      "nombre": "Ravshan Irmatov",
+      "edad": 45,
+      "nacionalidad": "Uzbeka"
+    }
+  ]
